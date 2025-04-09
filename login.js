@@ -9,7 +9,7 @@ function validateLogin() {
     window.location.href = "cafe.html"; 
     return false; 
   } else {
-   alert("Invalid username or password!");
+   alert("Invalid username or password.");
     return false; 
   }
 }
