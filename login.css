@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background-color: #f6efe6;
+  background-image: url(https://cdn.pixabay.com/photo/2020/07/18/16/29/coffee-5417663_1280.png);
   display: flex;
   justify-content: center;
   align-items: center;
